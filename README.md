@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dr. Christian De Britto</h1>
+<h1 align="center">Hi 👋, I'm Christian De Britto</h1>
 <h3 align="center">A passionate sociologist and OpenSource developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debritto&label=Profile%20views&color=0e75b6&style=flat" alt="debritto" /> </p>
