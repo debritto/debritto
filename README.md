@@ -1,32 +1,83 @@
-<h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">A passionate sociologist and OpenSource developer from Brazil</h3>
+# 👋 Hi, I'm Cristiano de Britto  
+### Sociologist • Knowledge Engineer • Research Software Developer  
+### Creator of the DGT7 Method – Graph-Based Qualitative Analysis
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debritto&label=Profile%20views&color=0e75b6&style=flat" alt="debritto" /> </p>
+I am a Brazilian sociologist (PhD) and Research Collaborator at the University of São Paulo (USP).  
+My work integrates **sociology, theology, epistemology, and computational methods**, with a focus on:
 
-- 🔭 I’m currently working on [SocioAtlas](https://www.socioatlas.xyz/)
+- **Knowledge Graphs for qualitative research**  
+- **Digital Humanities and biblical text analysis**  
+- **Computational hermeneutics**  
+- **Epistemology and Reformed philosophy**  
+- **Social acceptance of emerging energy technologies**
 
-- 🌱 I’m currently learning **Javascript, Google Data Studio**
+I develop software, methods, and workflows that combine **Python, Neo4j/Memgraph, VSCode, CAQDAS workflows, and semantic graph modeling**.
 
-- 👯 I’m looking to collaborate (translation) on [Ezra Bible App](https://github.com/ezra-bible-app/ezra-bible-app)
+---
 
-- 👨‍💻 All of my projects are available at [https://www.socioatlas.xyz/](https://www.socioatlas.xyz/)
+## 🔬 Current Research
+### **DGT7 — A Graph-Based Framework for Qualitative Factor Analysis**
+A methodological and computational approach for:
 
-- 📝 I regularly write articles on [https://www.socioatlas.xyz/blog/](https://www.socioatlas.xyz/blog/)
+- extracting, structuring and analyzing qualitative factors  
+- building reproducible chains of meaning  
+- loading textual knowledge into graph databases  
+- integrating epistemological rules with data pipelines  
 
-- 💬 Ask me about **Google Data Studio**
+DGT7 includes:  
+✔ Python processing scripts  
+✔ CSV/TXT factor structures  
+✔ VSCode annotation extensions  
+✔ Neo4j/Memgraph import pipelines  
+✔ Knowledge graph visualization tools  
 
-- 📄 Know about my experiences [http://lattes.cnpq.br/2334832147379385](http://lattes.cnpq.br/2334832147379385)
+(Documentation in progress → public soon)
 
-- ⚡ Fun fact **Love music!**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/2078444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2078444" height="30" width="40" /></a>
-</p>
+## 🧩 Active Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+- **SocioAtlas** — A platform for qualitative factor mapping using DGT7  
+- **DGT7 Importer** — Idempotent Neo4j loader for factor graphs  
+- **DGT7 VSCode Extension** — An annotation tool for DGT7 markup  
+- **Script libraries for academic qualitative workflows**  
+- **Biblical text parsers and interlinear tools**  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debritto&show_icons=true&locale=en&layout=compact" alt="debritto" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debritto&show_icons=true&locale=en" alt="debritto" /></p>
+## 📚 Academic Work
+
+- **PhD in Sociology**  
+- Research on **energy transition**, **epistemology**, **theology**, and **knowledge systems**  
+- Author of educational books  
+- Translator of Dirk Vollenhoven's philosophical work  
+- Developer of methods for computational hermeneutics  
+- Papers published in recognized international journals  
+
+Lattes CV: http://lattes.cnpq.br/2334832147379385  
+(English CV coming soon)
+
+---
+
+## 🔗 Links
+
+🌐 Personal website: https://www.socioatlas.xyz/  
+📝 Blog: https://www.socioatlas.xyz/blog/  
+📊 Research: ResearchGate / Google Scholar (add links when ready)  
+
+---
+
+## 💬 Interests  
+- Knowledge engineering  
+- Graph databases  
+- Reformed epistemology  
+- Biblical languages and digital humanities  
+- Social theory  
+- AI-assisted research workflows  
+
+---
+
+## 🎵 Fun fact  
+I love music and often integrate creative processes into academic thinking.
+
+---
