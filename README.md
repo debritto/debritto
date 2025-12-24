@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Cristiano de Britto  
+# 👋 Hi, I'm Cristian M. De Britto  
 ### Sociologist • Knowledge Engineer • Research Software Developer  
 ### Creator of the DGT7 Method – Graph-Based Qualitative Analysis
 
